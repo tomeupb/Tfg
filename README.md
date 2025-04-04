@@ -154,7 +154,7 @@ El **Sistema de Administración ** tendrá como objetivo la gestión de una pág
 
  ## Diagrama 
 
-
+![Image](https://github.com/user-attachments/assets/1b660e42-1f4c-44d7-942f-5dcb420b6066)
 
 
  
